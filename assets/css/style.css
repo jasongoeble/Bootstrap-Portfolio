@@ -126,21 +126,21 @@ footer{
     margin-top: 50px;
 }
 
-textarea{
+/*textarea{
     width: 400px;
     height: 200px;
     padding: 2px;
-}
+}*/
 
-#sub_buttonn{
+.sub_button{
     background-color: #4aaaa5;
-    border: none;
+    /*border: none;*/
     color: white;
-    padding: 15px 32px;
-    text-align: center;
+    /*padding: 15px 32px;*/
+    /*text-align: center;*/
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 15px;
-    margin: 4px 2px;
+    /*font-size: 15px;
+    margin: 4px 2px;*/
 }
 
 #Q1{
@@ -204,9 +204,9 @@ textarea{
 /* 
 Micro Clearfix -  if you have floats in your container 
 you need make sure they are cleared. this will clear your
-container after */
+container after 
 .clearfix:after {
     content: " ";
     display: table;
     clear: both;
-}
+}*/
