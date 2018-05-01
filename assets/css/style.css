@@ -69,15 +69,18 @@ nav{
     padding-top: 10px;*/
 }
 
+.wht_background{
+    background-color: white;
+}
 .music_ul {
     margin-top: 5px;
-    margin-bottom: 40px;
-    margin-left: 205px;
-    padding-left: 40px;
+    /*margin-bottom: 40px;*/
+    margin-left: 220px;
+    /*padding-left: 40px;*/
     list-style: circle;
 }
 .music_li {
-    padding: 4px;
+    padding: 10px;
 }
 
 a:visited, a:link, a:active{
@@ -90,17 +93,14 @@ a:visited, a:link, a:active{
     float: none;
 }*/
 
-/*still not sure why the bottom border is not being displayed on index.html while it is display on
-the portfolio.html and contact.html pages.  It appears to be a content length issue, but I am unable
-to force a space betweenn the ridge style box and the footer if there is content to fill the entire
-visible winndow*/
+
 section{
     /*background-color:#ffffff;*/
     /*max-width: 960px;
     margin: auto;
     margin-bottom: 50px;*/
-    border-style: ridge;
-    border-color: #dddddd;
+    /*border-style: ridge;
+    border-color: #dddddd;*/
     /*padding: 10px;*/
     color: #7777;
     /*padding-bottom: 50px;*/
